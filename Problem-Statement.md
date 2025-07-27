@@ -35,7 +35,7 @@ The result is an interactive Power BI dashboard that:
 - Dataset: `Pizza_Sales.csv` — Transactional order data for the pizza store
 - Queries: `Pizza Sales Analysis Queries.sql` — SQL queries for aggregating business KPIs
 - Dashboard: `Pizza Sales Analysis Dashboard.pbix` — Interactive dashboard built using Power BI
-- Tools: **SQL**, **Power BI**, **Excel/CSV**
+- Tools: **SQL**, **Power BI**
 
 ## 🔗 Files in This Repo
 
