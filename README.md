@@ -20,8 +20,8 @@ This project analyzes a pizza restaurant’s sales data to identify key metrics 
   ---
  # 🛠️ Tools & Technologies
  
-- **SQL(MySQL)** – Data wrangling, aggregation & KPI generation
-- **Power BI** – Interactive dashboard and data visualization
+- **SQL(MySQL)** – Data wrangling, aggregation 
+- **Power BI** – KPI creation, interactive dashboard and data visualization
 
 ---
 # Badges
