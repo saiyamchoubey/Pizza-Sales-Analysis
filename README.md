@@ -22,7 +22,6 @@ This project analyzes a pizza restaurant’s sales data to identify key metrics 
  
 - **SQL(MySQL)** – Data wrangling, aggregation & KPI generation
 - **Power BI** – Interactive dashboard and data visualization
-- **Excel/CSV** – Source data file handling
 
 ---
 # Badges
