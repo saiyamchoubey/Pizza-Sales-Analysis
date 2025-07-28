@@ -43,7 +43,8 @@ This project analyzes a pizza restaurant’s sales data to identify key metrics 
   ---
   # 📷 Dashboard Preview
 
-  https://i.postimg.cc/MHJCztr8/Screenshot-2025-07-28-204730.png
+  <img width="1291" height="730" alt="Screenshot 2025-07-28 204730" src="https://github.com/user-attachments/assets/810e17d6-a970-473c-8b7c-dd0dba5756d5" />
+
 
   ---
 # 🧠 Learning Outcomes
